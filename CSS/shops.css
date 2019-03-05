@@ -1,0 +1,17 @@
+.hide p{
+  display: none;
+}
+#shops span{
+  margin: 0 auto;
+  display: block;
+  width: 30%;
+  padding: 20px 0;
+  text-align: center;
+  background-color: #fff;
+  border: 3px solid #020f1d;
+  cursor: pointer;
+}
+#listP p{
+  padding-top: 25px;
+  text-align: center;
+}
