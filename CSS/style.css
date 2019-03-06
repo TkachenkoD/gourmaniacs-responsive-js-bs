@@ -47,6 +47,7 @@ h3.heading{
 }
 img.portfolio{
   max-width: 100%;
+  cursor: pointer;
 }
 .no-padding .col-md-6{
   padding: 0;
